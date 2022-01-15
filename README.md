@@ -39,6 +39,6 @@ After we got the link, we iterating them and send a request to get their content
 
 And again we manually copy them to excel
 
-## UPDATE by Melekmedia
+## UPDATE by Melekmedia (15/1/2022)
 
 We regroup the hoax category based on First Draft's version. Look at here >> https://docs.google.com/spreadsheets/d/1szynyjjtqnk-d2grE8uh35MRTOTBN6RHXmeI8FiB5Jo/edit?usp=sharing
